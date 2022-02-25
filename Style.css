@@ -27,25 +27,23 @@ body{
     margin-left: auto;
     margin-right: auto;
     margin-top: 10%;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
   
 img{
-    margin-top: 0.5em;
-    margin-right: 0.5em;
-    margin-left: 0.5em;
+    margin-top: 16px;
+    margin-right: 16px;
+    margin-left: 16px;
     border-radius: 10px;
 }
 
 
 #content{
-    margin-top: 0.5em;
-    margin-right: 0.5em;
-    margin-left: 0.5em;
+    margin-right: 16px;
+    margin-left: 16px;
+    margin-bottom: 40px;
     width: 90%;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
     font-family: 'Outfit';
   
 }
@@ -56,10 +54,8 @@ h1{
 }
 
 p{
-    width: 90%;
     color: #7D889E;
     font-weight: 400;
-    padding-left: 1em;
 }
 
 footer { 
